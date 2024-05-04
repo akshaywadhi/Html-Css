@@ -1,0 +1,99 @@
+body{
+    background-color:black;
+    text-align:center;
+    font-family: "Poppins", Arial, sans-serif;
+    font-weight:normal;
+}
+
+h1{
+    color:white;
+    margin-top:40px;
+    margin-bottom:40px;
+    font-family: "Poppins", Arial, sans-serif;
+    font-weight:normal;
+}
+
+i{
+    border:none;
+    background-color:#b79b66;
+    padding: 20px;
+    border-radius:50%;
+}
+
+.phone{
+    margin: 10px 110px 0px 110px;
+    text-align:center;
+}
+
+h5{
+    color:#b79b66;
+    display:inline;
+}
+
+.phone2{
+    
+    text-align:center;
+    margin:5px 120px 0px 125px;
+
+}
+
+
+
+.ape{
+    margin:8px 125px 0px 110px;
+}
+
+.west{
+    margin-top:5px;
+}
+
+p{
+    color: white;
+    display:inline;
+    font-size:13px;
+}
+
+.number{
+    margin: 0px 70px 0px 60px;
+}
+
+.new{
+    margin-right:340px;
+    margin-bottom:27px;
+}
+
+h2{
+    color:white;
+    font-family: "Poppins", Arial, sans-serif;
+    font-weight:normal;
+}
+input{
+    display:block;
+    margin:auto;
+    padding:12px 360px 12px 12px;
+    margin-top:10px;
+    border:none;
+    border-radius:5px;
+    background-color:#141414;
+}
+
+.msg{
+    display:block;
+    margin:auto;
+    padding:12px 360px 120px 12px;
+    margin-top:10px;
+    border:none;
+    border-radius:5px;
+    background-color:#141414;
+}
+
+
+button{
+    margin-top:10px;
+    padding:12px 213px 12px 213px;
+    border:none;
+    border-radius:5px;
+    background-color:#b79b66;
+    font-weight:bold;
+    font-family: "Poppins", Arial, sans-serif;
+}

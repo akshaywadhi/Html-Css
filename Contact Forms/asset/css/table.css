@@ -1,0 +1,155 @@
+body{
+    
+    background:linear-gradient( 45deg,#5257cd ,#c650bc 80%);
+}
+
+table{
+    color:black;
+    border:0px;
+    background-color:white;
+    border-radius:10px;
+    margin-top:80px;
+    margin-left:230px;
+    margin-bottom:103px;
+    border-collapse: collapse;
+    overflow: hidden;
+    font-family: "Poppins", Arial, sans-serif;
+    font-size:14px;
+}
+
+.thead{
+        ffont-family: "Poppins", Arial, sans-serif;
+        font-size: 18px;
+        color:white;
+        font-weight: normal;
+        background-color: #212529;
+        border-collapse: collapse;
+}
+.column1 {
+    width: 180px;
+    padding-left: 40px;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+th{
+    text-align: left;
+}
+
+.column2 {
+    width: 160px;
+}
+
+.column3 {
+    width: 245px;
+}
+
+.column4 {
+    width: 110px;
+    text-align: left;
+}
+
+.column5 {
+    width: 120px;
+    text-align: center;
+}
+
+.column6 {
+    width: 100px;
+    text-align: center;
+    padding-right: 62px;
+}
+
+td{
+    margin:0px;
+    padding:0px;
+}
+
+
+.row{
+    background-color:#ededed;
+}
+
+.row2{
+    background-color:#ededed;
+}
+
+.row3{
+    background-color:#ededed;
+}
+
+.row4{
+    background-color:#ededed;
+}
+
+.row5{
+    background-color:#ededed;
+}
+
+.row6{
+    background-color:#ededed;
+}
+
+.row7{
+    background-color:#ededed;
+}
+
+.row:hover{
+    
+    background-color:#212529;
+    color:white;
+    font-size:17px;
+}
+
+
+.row2:hover{
+    
+    background-color:#212529;
+    color:white;
+    font-size:17px;
+}
+
+
+.row3:hover{
+    
+    background-color:#212529;
+    color:white;
+    font-size:17px;
+}
+
+
+.row4:hover{
+    
+    background-color:#212529;
+    color:white;
+    font-size:17px;
+}
+
+
+.row5:hover{
+    
+    background-color:#212529;
+    color:white;
+    font-size:17px;
+}
+
+
+.row6:hover{
+    
+    background-color:#212529;
+    color:white;
+    font-size:17px;
+}
+
+.row7:hover{
+    
+    background-color:#212529;
+    color:white;
+    font-size:17px;
+}
+
+.thead:hover{
+    background-color:#485ad0;
+    color:white;
+    font-size:25px;
+}

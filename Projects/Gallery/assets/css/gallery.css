@@ -1,0 +1,101 @@
+body{
+    background-color:#d3fbfd;
+    text-align:center;
+}
+
+
+
+.first {
+    border-radius: 20px;
+    display:inline;
+    margin-bottom:150px;
+    box-shadow: 0px 0px 15px #9bb2b1;
+}
+
+.div1{
+    display:inline;
+}
+.div2{
+    display:inline;
+
+  
+}
+.second {
+    border-radius: 20px;
+    display:inline;
+    margin-bottom:350px;
+    margin-left:5px;
+    box-shadow: 0px 0px 15px #9bb2b1;
+}
+
+.third{
+    border-radius:20px;
+    margin:0px 0px 150px -205px;
+    box-shadow: 0px 0px 15px #9bb2b1;
+}
+
+.divthird{
+    display:inline;
+}
+
+.fourth{
+    border-radius: 20px;
+    display:inline;
+    margin:0px 0px 354px -245px;
+    box-shadow: 0px 0px 15px #9bb2b1;
+}
+
+.fifth{
+    border-radius:20px;
+    display:inline;
+    margin:0px 0px 150px -205px;
+    box-shadow: 0px 0px 15px #9bb2b1;
+}
+
+.sixth{
+    border-radius:20px;
+    display:inline;
+    margin:0px 0px 354px 8px;
+    box-shadow: 0px 0px 15px #9bb2b1;
+}
+
+.seventh{
+    border-radius:20px;
+    display:inline;
+    margin:0px 0px 150px -205px;
+    box-shadow: 0px 0px 15px #9bb2b1;
+}
+
+.eight {
+    border-radius: 20px;
+    display:inline;
+    margin: 0px 0px 153px 8px;
+    box-shadow: 0px 0px 15px #9bb2b1;
+}
+
+.nine{
+    border-radius:20px;
+    display:inline;
+    margin:0px 2px 357px 7px;
+    box-shadow: 0px 0px 15px #9bb2b1;
+}
+
+.ten{
+    border-radius:20px;
+    display:inline-flex;
+    margin:0px 0px 155px -200px;
+    box-shadow: 0px 0px 15px #9bb2b1;
+}
+
+.ele{
+    border-radius: 20px;
+    display:inline-flex;
+    margin:-140px 0px 0px -620px;
+    box-shadow: 0px 0px 15px #9bb2b1;
+}
+.twe{
+    border-radius: 20px;
+    display:inline-flex;
+    margin:-140px 0px 0px 8px;
+    box-shadow: 0px 0px 15px #9bb2b1;
+}

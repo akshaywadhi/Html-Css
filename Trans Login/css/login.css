@@ -1,0 +1,98 @@
+body{
+    background-image: url("../trees.jpg");
+    text-align:center;
+}
+
+input{
+    display:block;
+    margin:auto;
+    padding:15px 200px 15px 15px;
+    backdrop-filter: blur(15px);
+    background:transparent;
+    border:0px;
+    border-radius:2px;
+    font-family: 'Open Sans', sans-serif;
+    font-size:15px;
+    margin-top:5px;
+}
+
+form{
+
+    background-color: rgba(255, 255, 255, 0.4);
+    backdrop-filter: blur(10px);
+    border-radius:10px;
+    margin:90px 530px 0px 530px;
+    padding-top:25px;
+    padding-bottom:40px;
+}
+
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size:35px;
+    
+}
+
+label{
+    margin-left:-310px;
+    font-family: 'Ubuntu', sans-serif;
+    
+    
+}
+
+.pass{
+    margin-left:-315px;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+.log{
+    font-family: 'Ubuntu', sans-serif;
+    padding: 15px 160px 15px 160px;
+    border-radius:2px;
+    border:0px;
+    border-radius:2px;
+    font-size:20px;
+    background-color:white;
+    
+
+}
+
+.google{
+    
+    padding: 15px 50px 15px 50px;
+    backdrop-filter: blur(15px);
+    background:transparent;
+    border:0px;
+    border-radius:2px;
+    display:inline;
+    margin-right:40px;
+    font-size:15px;
+    font-family: 'Ubuntu', sans-serif;
+    
+
+}
+
+.twitter{
+    padding: 15px 50px 15px 50px;
+    backdrop-filter: blur(15px);
+    background:transparent;
+    border:0px;
+    border-radius:2px;
+    font-size:15px;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+
+img{
+    margin-right:10px;
+}
+
+i{
+    color: rgb(239, 74, 74);
+}
+
+#twitter{
+    color:#00acee;
+
+}

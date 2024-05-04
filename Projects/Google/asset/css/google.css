@@ -1,0 +1,59 @@
+body{
+    text-align:center;
+    background-color: #2e2f31;
+}
+.g{
+    color:#0100fe;
+}
+.o{
+    color:#fd0101;
+}
+.o1{
+    color:#fda601;
+}
+.g1{
+    color:#0004f7;
+}
+.l{
+    color:#008000;
+}
+.e{
+    color:#fc0300;
+}
+
+input{
+    display:block;
+    margin:auto;
+    padding:10px 180px 10px 180px;
+    border-radius: 5px;
+    border:none;
+    margin-top:-75px;
+    background-color: #b5b9ba;
+}
+
+button{
+    padding:8px 15px 4px 15px;
+    background-color: #6e6463;
+    box-shadow:-4px -3px 1px #797575, -2px -3px 2px black inset;
+    border-radius: 5px;
+    border:none;
+    margin-left:20px;
+    color:white;
+
+}
+
+h1{
+    font-size: 130px;
+}
+
+.hindi{
+    color:#3c939a;
+}
+
+.pp{
+    color:white;
+    font-size: 18px;
+}
+p{
+    margin-top: 25px;
+}

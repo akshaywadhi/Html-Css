@@ -1,0 +1,108 @@
+body{
+    text-align:center;
+}
+
+.a{
+    color:#4285f4;
+}
+
+.b{
+    color:#ea4335;
+}
+
+.c{
+    color:#fbbc05;
+}
+
+.d{
+    color:#4285f4;
+}
+
+.e{
+    color:#39aa57;
+}
+
+.f{
+    color:#ea4335;
+}
+
+form{
+    border:2px solid rgb(235, 235, 235);
+    margin:120px 535px 0px 535px;
+    padding: 0px 0px 70px 0px;
+    border-radius:5px;
+    padding-top:30px;
+}
+
+input{
+    display:block;
+    margin:auto;
+    padding:15px 140px 15px 15px;
+    border:2px solid rgb(235, 235, 235);
+    border-radius:5px;
+    font-size:17px;
+}
+
+button{
+
+    margin-left:190px;
+    padding:9px 25px 9px 25px;
+    border-radius:6px;
+    background-color:#4285f4;
+    border:none;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size:13px;
+    font-weight: 400;
+}
+
+a{
+    margin-left: -280px;
+    display:block;
+    text-decoration:none;
+    margin-top:12px;
+    font-family: 'Roboto', sans-serif;
+    color:#1a73e8;
+    font-size:14px;
+    font-style: normal;
+    font-weight: 500;
+
+}
+
+.cre{
+    display:inline;
+    text-decoration:none;
+    margin-left:3px; 
+}
+
+.learn{
+    margin-left:-295px;
+}
+
+h1{
+    font-family: 'Red Hat Display', sans-serif;
+    font-size:25px;
+    
+}
+
+h4{
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    font-size:23px;
+    margin-top:-3px;
+    margin-bottom:5px;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+
+}
+
+.not{
+    color:#60646a;
+    font-size:14px;
+    margin-top:25px;
+    margin-left:-20px;
+    margin-bottom:-10px;
+}

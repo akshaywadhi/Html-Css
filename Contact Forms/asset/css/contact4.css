@@ -1,0 +1,141 @@
+body{
+    background-color:#fafafa;
+    font-weight: lighter;
+    font-family: "Poppins", Arial, sans-serif;
+    text-align:center;
+
+}
+
+h1{
+    margin:40px 0px 60px 0px;
+}
+
+.formdiv1{
+    display:inline-flex;
+ 
+
+}
+.formdiv2{
+    display:inline-flex;
+}
+
+.form1{
+    background: linear-gradient(to top left,#382b97,#772ca0);
+    padding:30px 30px 60px 30px;
+    color:white;
+    font-weight: lighter;
+    font-family: "Poppins", Arial, sans-serif;
+    text-align:left;
+    box-shadow: 5px 5px 10px rgb(221, 221, 221);
+    margin-right:-4px;
+}
+
+.form2{
+    background-color:white;
+    color:black;
+    font-weight: lighter;
+    font-family: "Poppins", Arial, sans-serif;       
+    text-align:left;  
+    padding:21px 30px 63px 40px;
+  
+    box-shadow: 5px 5px 10px rgb(221, 221, 221);
+}
+
+input{
+    display:block;
+    margin-top:15px;
+    padding:12px 160px 12px 0px;
+    border:0px;
+    box-shadow: 0px 1px 0px rgb(222, 222, 222);
+    background: transparent;
+    font-size:15px;
+    color:rgb(225, 225, 225);
+}
+
+button{
+    color:white;
+    background-color:#cd409d;
+    margin-top:10px;
+    padding:10px 20px 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-family: "Poppins", Arial, sans-serif; 
+    border:none;    
+}
+
+h4{
+    font-weight: lighter;
+    font-family: "Poppins", Arial, sans-serif;
+    font-size:22px;
+}
+
+.cont{
+    font-weight: normal;
+    font-family: "Poppins", Arial, sans-serif;
+    font-size:26px;
+}
+
+.me{
+    display:block;
+    margin-top:15px;
+    padding:12px 160px 120px 0px;
+    border:0px;
+    box-shadow: 0px 1px 0px rgb(222, 222, 222);
+    background: transparent;
+
+
+}
+
+i{
+    border:0px;
+    border-radius:50%;
+    padding:15px;
+    background-color:#212226;
+    display:inline;
+    margin-top:21px;
+}
+
+label{
+    display:inline;
+    color:#cdcdcd;
+}
+
+h5{
+    display:inline;
+    font-weight: lighter;
+    font-family: "Poppins", Arial, sans-serif;
+    font-size:16px;
+    margin-left: 10px;
+}
+
+.icon{
+    display:inline;
+    margin-top:20px;
+    
+}
+
+.addd {
+    display:inline;
+}
+
+.add{
+    display:inline;
+  
+}
+
+p{
+    color:black;
+}
+
+.new{
+    margin-left:56px;
+    color:black;
+}
+
+.cont2{
+
+    text-decoration:underline;
+    text-decoration-color:#b380ad;
+    margin-bottom:2px;
+
+}

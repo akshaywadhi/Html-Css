@@ -1,0 +1,159 @@
+body{
+    text-align:center;
+    background-color:#fafafa;
+    font-weight: normal;
+    font-family: "Poppins", Arial, sans-serif;
+}
+
+h1{
+    margin:10px 0px 30px 0px;
+    font-weight: normal;
+    font-family: "Poppins", Arial, sans-serif;
+}
+
+i{
+    border:none;
+    border-radius:50%;
+    padding:15px;
+    background-color:#64b2d0;
+    margin:0px 150px 15px 150px;
+    font-weight: normal;
+    font-family: "Poppins", Arial, sans-serif;
+    color:white;
+
+}
+
+
+.add{
+    margin-right:60px;
+    font-weight: bold;
+    font-family: "Poppins", Arial, sans-serif;
+    margin-left:20px;
+}
+
+.email{
+    margin-left:-60px;
+    font-weight: bold;
+    font-family: "Poppins", Arial, sans-serif;
+}
+
+.phone{
+    margin-left:-30px;
+    font-weight: bold;
+    font-family: "Poppins", Arial, sans-serif;
+}
+
+.website{
+    font-weight: bold;
+    font-family: "Poppins", Arial, sans-serif;
+
+}
+.add2{
+    margin-right: 200px;
+    margin-left:-60px;
+    font-weight: normal;
+    font-family: "Poppins", Arial, sans-serif;
+    
+}
+
+.phone2{
+    margin-right:240px;
+    font-weight: normal;
+    font-family: "Poppins", Arial, sans-serif;
+    color:#62b3d1;
+}
+
+.email2{
+    margin-right:150px;
+    font-weight: normal;
+    font-family: "Poppins", Arial, sans-serif;
+    color:#62b3d1;
+    
+}
+
+.website2{
+    margin-right:60px;
+    font-weight: normal;
+    font-family: "Poppins", Arial, sans-serif;
+    color:#62b3d1;
+}
+
+.suite{
+    display:block;
+    margin-right:1070px;
+    font-weight: normal;
+    font-family: "Poppins", Arial, sans-serif;
+    margin-top:5px;
+    margin-bottom:60px;
+}
+
+.form{
+    display:inline-flex;
+    text-align:left;
+   
+}
+
+form{
+    border:none;
+    padding:30px 30px 50px 30px;
+    background-color:#ffffff;
+    font-size:12px;
+    font-weight:bold;
+    font-family: "Poppins", Arial, sans-serif;
+
+    
+}
+
+.img{
+    display:inline-flex;
+    float:right;
+    margin-right:330px;
+    margin-left:-310px;
+}
+
+input{
+    display:inline;
+    padding:10px 65px 10px 10px;
+    margin-top:15px;
+    border:none;
+    box-shadow:0px 3px 3px #eeeeee;
+    margin-right:10px;
+}
+
+.sub{
+    display:block;
+    margin-top:15px;
+   
+
+}
+
+.me{
+    display:block;
+    margin-top:15px;
+    
+}
+
+button{
+    display:block;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: "Poppins", Arial, sans-serif;
+    background-color: #60b5d0;
+    color:white;
+    border:none;
+    border-radius:3px;
+    padding:10px;
+    margin-top:15px;
+}
+
+.iem{
+    margin-left:180px;
+}
+
+.me2{
+    padding:10px 321px 100px 10px;
+}
+
+.sub2{
+    padding:10px 321px 10px 10px;
+}

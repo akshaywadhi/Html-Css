@@ -1,0 +1,118 @@
+.one {
+    display:inline;
+    border:2px solid rgb(242, 103, 140);
+    margin-left:25px;
+    border-radius:3px;
+    margin-top:30px;
+    box-shadow: 3px 0px 20px rgb(63, 164, 115);
+    margin-bottom:13px;
+
+
+}
+
+.two{
+    display:inline;
+    border:2px solid rgb(242, 103, 140);
+    margin-top: 20px;
+    margin-left:25px;
+    border-radius:3px;
+    box-shadow: 3px 0px 20px rgb(63, 164, 115);
+    margin-bottom:10px;
+   
+
+}
+
+body{
+    text-align:left;
+    background-color: black;
+  
+
+}
+
+h5{
+    display:inline;
+    font-size:30px;
+    color:white;
+  
+}
+p {
+    display:block;
+    margin-left:25px;
+    font-size:32px;
+    margin-bottom:-1px;
+    color:rgb(152, 151, 151);
+    margin-top:-20px;
+}
+
+h3
+{
+    color:rgb(224, 94, 129);
+    font-size:25px;
+    margin-left:25px;
+
+}
+.block{
+    display:inline;
+    margin-left:25px;
+}
+
+a {
+    text-decoration: none;
+    color:rgb(224, 94, 129);
+    font-size:14px;
+    font-weight: bold;
+    margin-left:42px;
+}
+
+.cand{
+    text-decoration: none;
+    color:rgb(224, 94, 129);
+    font-size:14px;
+    font-weight:bold;
+    margin-left:90px;
+}
+
+.trade{
+    text-decoration: none;
+    color:rgb(224, 94, 129);
+    font-size:14px;
+    font-weight:bold;
+    margin-left:65px;
+
+}
+
+.bri{
+    text-decoration: none;
+    color:rgb(224, 94, 129);
+    font-size:14px;
+    font-weight:bold;
+    margin-left:70px;
+
+}
+
+.dest{
+    text-decoration: none;
+    color:rgb(224, 94, 129);
+    font-size:14px;
+    font-weight:bold;
+    margin-left:115px;
+
+}
+
+.mate{
+    text-decoration: none;
+    color:rgb(224, 94, 129);
+    font-size:14px;
+    font-weight:bold;
+    margin-left:75px;
+
+}
+
+.ph{
+    text-decoration: none;
+    color:rgb(224, 94, 129);
+    font-size:14px;
+    font-weight:bold;
+    margin-left:85px;
+
+}

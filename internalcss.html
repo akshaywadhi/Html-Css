@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Using Internal CSS</title>
+    <style>
+        body{
+            text-align: center;
+            background-color: black;
+            
+        }
+        h1{
+            background-color:rgb(30, 27, 27);
+            color:rgb(255, 216, 73);
+            border: 0px;
+            border-radius: 30px;
+        
+        
+        }
+
+        input {
+            display: block;
+            text-align: center;
+            margin:8px 0px 8px 180px;
+            padding:10px 50px 10px 50px;
+            border:0px;
+            border-radius:15px;
+            background-color:rgb(64, 67, 55) ;
+        }
+
+        label{
+            color:rgb(226, 213, 166);
+            font-weight:bold;
+        }
+
+        button{
+            margin: 20px;
+            color:rgb(229, 229, 226);
+            background-color: rgb(38, 36, 36);
+            font-size:20px;
+            border-radius:10px;
+        }
+        form{
+            border: 15px solid rgb(75, 78, 67);
+            padding:20px 400px 10px 400px;
+            margin-top:70px;
+            border-radius:20px;
+            margin-left:40px;
+            margin-right:40px;
+            background-color: rgb(38, 40, 33)
+            
+        }
+    </style>
+</head>
+<body>
+
+    <form>
+        <h1>Contact Form</h1>
+        <label for="">Your Name</label>
+        <input type="text">
+        <label for="">Phone Number</label>
+        <input type="text">
+        <label for="">Email</label>
+        <input type="text">
+        <label for="">Subject</label>
+        <input type="text">
+        <label for="">Your Message</label>
+        <input type="text" style="padding-bottom:80px">
+        <button>Submit Contact</button>
+        
+        
+    </form>
+</body>
+</html>
