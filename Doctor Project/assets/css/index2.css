@@ -1,0 +1,72 @@
+.head{
+    display:grid;
+    grid-template-columns: 1fr;
+    grid-template-columns: 1fr;
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    color:white;
+    border-radius:50px;
+    margin-top:0px;
+    padding:20px 30px 0px 20px;
+    margin-top:-10px;
+    margin-left:-10px;
+    margin-right:-10px;
+    border:2px solid red;
+}
+
+.line{
+    border:1px solid white;
+    padding:2px;
+    width:60px;
+    border-radius:2px;
+    background-color:white;
+
+}
+
+.two{
+    border:1px solid white;
+    padding:2px;
+    width:60px;
+    border-radius:2px;
+    background-color:white;
+
+}
+
+.third{
+    border:1px solid white;
+    padding:2px;
+    width:35px;
+    border-radius:2px;
+    background-color:white;
+    margin-left:24px;
+
+}
+
+.doc{
+    text-align:center;
+    margin-left:0px;
+    margin-right:0px;
+    margin-top:-60px;
+   
+}
+
+.heading{
+    text-align: center;
+}
+
+.book{
+    display:block;
+}
+
+.fa-face-laugh{
+        margin-left:400px;
+        color: #ff8412;
+        font-size:70px;
+        background-color: white;
+        border-radius: 50%;
+        position:relative;
+        top:-50px;
+
+}
